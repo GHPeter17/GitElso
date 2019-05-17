@@ -1,2 +1,0 @@
-rem4.txt elso-harmadik sor.
-rem4.txt negyedik sor.
